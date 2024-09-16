@@ -1,5 +1,5 @@
 #  Aplicativo Web de Tarefas Semanais
-## 🚀 Descrição:
+## 🚀 Descrição
 Este aplicativo web foi desenvolvido para gerenciar e monitorar tarefas semanais. O sistema permite que os usuários adicionem tarefas, definam quantos dias na semana cada tarefa deve ser cumprida e atualizem o status de quando e que horas cada tarefa foi realizada. O aplicativo também organiza as tarefas por semanas, facilitando o acompanhamento do progresso semanal.
 
 ### 📋  Funcionalidades
